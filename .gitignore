@@ -1,0 +1,6 @@
+
+# Ignore Mac DSStore
+.DS_Store
+
+# Ignore python cache
+__pycache__
