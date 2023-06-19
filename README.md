@@ -64,3 +64,7 @@ $ mip_schema_convert_from_json \
     --excel "/path/to/myOutputCDEs.xlxs" \
 ```
 **Note:** You can also use the option `-h`to show more help about command usage.
+
+## Funding
+
+This project received funding from the European Union's H2020 Framework Programme for Research and Innovation under the Specific Grant Agreement No. 945539 (Human Brain Project SGA3, as part the Medical Informatics Platform (MIP)).
