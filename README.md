@@ -20,7 +20,7 @@ $ virtualenv venv -p python3.9
 
 ```bash
 $ source ./venv/bin/activate
-(venv) $ pip install git+https://github.com/HBPMedical/mip_schema.git@0.0.4
+(venv) $ pip install git+https://github.com/HBPMedical/mip_schema.git@0.0.5
 ```
 
 ### For the developer
