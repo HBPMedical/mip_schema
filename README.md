@@ -6,6 +6,25 @@ Open-source Python package to manipulate Common Data Elements Metadata Schema fo
 
 ## How to install?
 
+### For the user
+
+1. Create your installation directory, go to this directory, and create a new virtual Python 3.9 environment:
+
+```bash
+$ mkdir -p "/installation/directory"
+$ cd "/prefered/directory"
+$ virtualenv venv -p python3.9
+```
+
+2. Activate the environment and install the package, at a specific version, directly from GitHub with Pip:
+
+```bash
+$ source ./venv/bin/activate
+(venv) $ pip install git+https://github.com/HBPMedical/mip_schema.git@0.0.4
+```
+
+### For the developer
+
 1. Clone the Git repository in your prefered directory:
 
 ```bash
